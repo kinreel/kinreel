@@ -28,3 +28,4 @@ Update dependencies
 Clean up codebase
 Add test cases
 Fix bug in feature X
+Fix typo in README
