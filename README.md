@@ -19,3 +19,4 @@ Refactor core logic
 Remove unused imports
 Rewrite function Y
 Add new utility script
+Optimize loop
